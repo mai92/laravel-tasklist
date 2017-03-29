@@ -2,8 +2,8 @@
 
 namespace App\Http\Controllers;
 
-use App\Position;
 use App\User;
+use App\Position;
 use Illuminate\Http\Request;
 
 /**
